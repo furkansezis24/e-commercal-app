@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+}
+.container {
+  background-color: aqua;
+  padding: 1px 1px;
+}
+.searching {
+  text-align: center;
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
+p {
+  line-height: 1.5;
+  margin: 0;
+}
+input {
+  padding: 10px;
+}
+.right {
+  text-align: right;
+  color: green;
+}
