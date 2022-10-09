@@ -1,3 +1,5 @@
 # Vue 3 + Vite
 
-E-commercal-app i created this app VueJs options API
+E-commercal-app 
+
+I created this app VueJs options API
